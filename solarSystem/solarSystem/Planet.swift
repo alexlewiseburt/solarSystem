@@ -1,4 +1,11 @@
-import UIKit
+//
+//  Planet.swift
+//  solarSystem
+//
+//  Created by Alex Burt on 12/19/22.
+//
+
+import Foundation
 
 class Planet {
     let name: String
